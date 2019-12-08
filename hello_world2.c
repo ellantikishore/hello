@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+void print_func()
 {
-	printf("hello_world2\n");
+	printf("inside print func\n");
 }
